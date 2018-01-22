@@ -8,3 +8,5 @@ Bonus points if it can detect if it's in a function and prefix the line.
 
 https://www.npmjs.com/package/logtrace looks perfect, but hasn't been touched in a while and no longer exists on GitHub. 
 I've contacted the author to see if they would be ok with me taking it over.
+
+If not, this SO answer looks promising https://stackoverflow.com/questions/14172455/get-name-and-line-of-calling-function-in-node-js
