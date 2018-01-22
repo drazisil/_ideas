@@ -1,0 +1,5 @@
+https://twitter.com/drazisil/status/955531971014381574
+
+Looking for a #NodeJS logger that will know what line it ran on. 
+
+Bonus points if it can detect if it's in a function and prefix the line.
